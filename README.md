@@ -22,4 +22,4 @@ Microsoft Excel (✔ Data Cleaning, ✔ Pivot Tables, ✔ Charts, ✔ Slicers, �
 
 🛒 Sales Performance by Channel & Category
 
-![image alt](https://github.com/anusvm/E_Cpmmerce_Store_Data_Analysis/blob/main/Vrinda%20Store%20Annual%20Report%20Analysis.png?raw=true)")
+![image alt](https://github.com/anusvm/Excel_Vrinda_store_Sales_Analysis/blob/main/Vrinda%20Store%20Annual%20Report%20Analysis.png?raw=true)
