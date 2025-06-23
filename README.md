@@ -21,3 +21,4 @@ Microsoft Excel (✔ Data Cleaning, ✔ Pivot Tables, ✔ Charts, ✔ Slicers, �
 📦 Order Status Breakdown (Delivered, Returned, Cancelled)
 
 🛒 Sales Performance by Channel & Category
+!(image_alt)(https://github.com/anusvm/Excel_Vrinda_store_Sales_Analysis/blob/main/Vrinda%20Store%20Annual%20Report%20Analysis.png?raw=true)
